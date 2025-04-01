@@ -1,0 +1,7 @@
+# Web scraping
+beautifulsoup4==4.12.2
+undetected-chromedriver==3.5.0
+selenium==4.11.2
+
+# Utilities
+python-dotenv==1.0.0
